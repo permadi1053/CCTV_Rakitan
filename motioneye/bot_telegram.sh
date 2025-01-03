@@ -1,4 +1,4 @@
-BOT_TOKEN="Bot toke"
+BOT_TOKEN="Bot token"
 SNAPSHOT_URL="URL Snapshoot"
 USER_CHAT_ID="User ID Telegram"
 CAPTION="Motion Detected"
